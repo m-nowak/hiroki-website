@@ -55,6 +55,7 @@ pre {
 .hidden {
     visibility: hidden;
     height: 0;
+    display:none;
 }
 
 /* Navbar */
